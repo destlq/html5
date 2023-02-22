@@ -1,0 +1,30 @@
+<!Doctype html>
+<html>
+	<head>
+		<title>Receita Bolo de Fubá Simples</title>
+		</title>
+	</head>
+	<body>
+	<h1>Receita Bolo de Fubá Simples</h1>
+	<a href="https://www.tudogostoso.com.br/receita/21560-bolo-de-fuba-simples.html"><img src="bolofuba.jpg" width="30%" height="30%"></a>
+		<hr>
+		<h1>Ingredientes</h1>
+		<ul>	
+			<li>3 ovos</li>
+			<li>2 xícaras (chá) de açúcar</li>
+			<li>2 xícaras (chá) de fubá</li>
+			<li>3 colheres (sopa) rasas de farinha de trigo</li>
+			<li>1/2 copo (americano) de óleo</li>
+			<li>1 copo de leite</li>
+			<li>1 colher (sopa) de fermento em pó</li>
+		</ul>
+		<hr>
+		<h1>Modo de preparo</h1>
+		<ol type="I">
+			<!--Lista numerada-->
+			<li>Bata todos os ingredientes no liquidificador.</li>
+			<li>Coloque em uma forma untada e enfarinhada.</li>
+			<li>Leve ao forno preaquecido e deixe assar, por cerca de 40 minutos.</li>
+		</ol>	
+	</body>
+</html>	
